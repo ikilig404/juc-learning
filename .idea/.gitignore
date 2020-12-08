@@ -1,2 +1,11 @@
-/out/
-/.idea/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.settings/
+build/
+out/
+.classpath
+.project
