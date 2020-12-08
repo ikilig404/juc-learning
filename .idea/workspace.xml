@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Application\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lKInB9n2ZIYuULdIqfYir38ZqG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.TestProducerAndConsumer">
+    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCallable" />
+      <module name="juc-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCopyOnWriteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCopyOnWriteArrayList" />
+      <module name="juc-day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountDownLatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCountDownLatch" />
+      <module name="juc-day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestLock" />
+      <module name="juc-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestProducerAndConsumer" />
+      <module name="juc-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestProducerAndConsumer" />
+        <item itemvalue="Application.TestLock" />
+        <item itemvalue="Application.TestCallable" />
+        <item itemvalue="Application.TestCountDownLatch" />
+        <item itemvalue="Application.TestCopyOnWriteArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="" />
+      <created>1607339521729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607339521729</updated>
+      <workItem from="1607339523009" duration="2756000" />
+      <workItem from="1607387206949" duration="12264000" />
+      <workItem from="1607402020335" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1607397548859">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1607397548859" />
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom" timestamp="1607399500705">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
+    <state width="1322" height="385" key="GridCell.Tab.0.center" timestamp="1607399500705">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
+    <state width="1322" height="385" key="GridCell.Tab.0.left" timestamp="1607399500705">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
+    <state width="1322" height="385" key="GridCell.Tab.0.right" timestamp="1607399500705">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1607402331600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607402331600" />
+    <state x="57" y="0" key="new project wizard" timestamp="1607394004987">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1607394004987" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1607397738737">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1607397738737" />
+  </component>
+</project>
