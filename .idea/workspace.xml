@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="" />
+    <list default="true" id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,19 +29,32 @@
     </option>
   </component>
   <component name="ProjectId" id="1lKInB9n2ZIYuULdIqfYir38ZqG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.TestProducerAndConsumer">
-    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCallable" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wjwhs\IdeaProject\juc-learning\juc-day02\src\com\ikilig\juc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestForkJoinPool.test2">
+    <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
       <module name="juc-day02" />
       <extension name="coverage">
         <pattern>
@@ -46,34 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCopyOnWriteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCopyOnWriteArrayList" />
-      <module name="juc-day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCountDownLatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestCountDownLatch" />
-      <module name="juc-day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestLock" />
+    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestScheduledThreadPool" />
       <module name="juc-day02" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProducerAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestProducerAndConsumer" />
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestThreadPool" />
       <module name="juc-day02" />
       <extension name="coverage">
         <pattern>
@@ -94,17 +88,60 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForkJoinPool.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juc-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ikilig.juc" />
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForkJoinPool.testTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="juc-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ikilig.juc" />
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
+      <option name="METHOD_NAME" value="testTime" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestProducerAndConsumer" />
-        <item itemvalue="Application.TestLock" />
-        <item itemvalue="Application.TestCallable" />
-        <item itemvalue="Application.TestCountDownLatch" />
-        <item itemvalue="Application.TestCopyOnWriteArrayList" />
+        <item itemvalue="JUnit.TestForkJoinPool.test2" />
+        <item itemvalue="Application.TestForkJoinPool" />
+        <item itemvalue="JUnit.TestForkJoinPool.testTime" />
+        <item itemvalue="Application.TestScheduledThreadPool" />
+        <item itemvalue="Application.TestThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +155,8 @@
       <updated>1607339521729</updated>
       <workItem from="1607339523009" duration="2756000" />
       <workItem from="1607387206949" duration="12264000" />
-      <workItem from="1607402020335" duration="305000" />
+      <workItem from="1607402020335" duration="1027000" />
+      <workItem from="1607411310040" duration="12824000" />
     </task>
     <servers />
   </component>
@@ -126,30 +164,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1607397548859">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1607422493024">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1607397548859" />
-    <state width="1322" height="385" key="GridCell.Tab.0.bottom" timestamp="1607399500705">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1607422493024" />
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom" timestamp="1607424163923">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
-    <state width="1322" height="385" key="GridCell.Tab.0.center" timestamp="1607399500705">
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
+    <state width="1322" height="385" key="GridCell.Tab.0.center" timestamp="1607424163923">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
-    <state width="1322" height="385" key="GridCell.Tab.0.left" timestamp="1607399500705">
+    <state width="1322" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
+    <state width="1322" height="385" key="GridCell.Tab.0.left" timestamp="1607424163923">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
-    <state width="1322" height="385" key="GridCell.Tab.0.right" timestamp="1607399500705">
+    <state width="1322" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
+    <state width="1322" height="385" key="GridCell.Tab.0.right" timestamp="1607424163923">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607399500705" />
+    <state width="1322" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1607402331600">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607402331600" />
+    <state x="381" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607423599019">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="381" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1607423599019" />
     <state x="57" y="0" key="new project wizard" timestamp="1607394004987">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
