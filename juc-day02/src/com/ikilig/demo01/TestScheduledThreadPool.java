@@ -1,4 +1,4 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
 import java.util.Random;
 import java.util.concurrent.*;

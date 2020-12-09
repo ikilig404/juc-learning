@@ -1,9 +1,6 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Iterator;
-import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**

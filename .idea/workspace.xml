@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day01/src/com/ikilig/juc/TestAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day01/src/com/ikilig/demo01/TestAtomicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day01/src/com/ikilig/juc/TestCompareAndSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day01/src/com/ikilig/demo01/TestCompareAndSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day01/src/com/ikilig/juc/TestCopyOnWriteArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day01/src/com/ikilig/demo01/TestCopyOnWriteArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day01/src/com/ikilig/juc/TestCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day01/src/com/ikilig/demo01/TestCountDownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day01/src/com/ikilig/juc/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day01/src/com/ikilig/demo01/TestVolatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestABCAlternatelyPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestABCAlternatelyPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestForkJoinPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestForkJoinPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestProducerAndConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestProducerAndConsumerForLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestProducerAndConsumerForLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestReadWriteLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestScheduledThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestScheduledThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestThread8Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestThread8Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-day02/src/com/ikilig/demo01/TestThreadPool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,46 +65,62 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/juc-day02/src/com/ikilig/juc" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\wjwhs\IdeaProject\juc-learning\juc-day02\src\com\ikilig\juc" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestForkJoinPool.test2">
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.producer_consumer.A" />
+      <module name="juc-kuang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.producer_consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleTicketDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.demo01.SaleTicketDemo01" />
+      <module name="juc-kuang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.demo01.Test1" />
+      <module name="juc-kuang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ikilig.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestForkJoinPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.demo01.TestForkJoinPool" />
       <module name="juc-day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestScheduledThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestScheduledThreadPool" />
-      <module name="juc-day02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestThreadPool" />
-      <module name="juc-day02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="PATTERN" value="com.ikilig.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,29 +143,13 @@
       <module name="juc-day02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
+          <option name="PATTERN" value="com.ikilig.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ikilig.juc" />
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
+      <option name="PACKAGE_NAME" value="com.ikilig.demo01" />
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.demo01.TestForkJoinPool" />
       <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestForkJoinPool.testTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="juc-day02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ikilig.juc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ikilig.juc" />
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.juc.TestForkJoinPool" />
-      <option name="METHOD_NAME" value="testTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.SaleTicketDemo01" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="JUnit.TestForkJoinPool.test2" />
         <item itemvalue="Application.TestForkJoinPool" />
-        <item itemvalue="JUnit.TestForkJoinPool.testTime" />
-        <item itemvalue="Application.TestScheduledThreadPool" />
-        <item itemvalue="Application.TestThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +176,9 @@
       <workItem from="1607339523009" duration="2756000" />
       <workItem from="1607387206949" duration="12264000" />
       <workItem from="1607402020335" duration="1027000" />
-      <workItem from="1607411310040" duration="12824000" />
+      <workItem from="1607411310040" duration="13393000" />
+      <workItem from="1607473485906" duration="3614000" />
+      <workItem from="1607478729918" duration="4907000" />
     </task>
     <servers />
   </component>
@@ -168,34 +190,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1607422493024" />
-    <state width="1322" height="385" key="GridCell.Tab.0.bottom" timestamp="1607424163923">
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom" timestamp="1607484521400">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
-    <state width="1322" height="385" key="GridCell.Tab.0.center" timestamp="1607424163923">
+    <state width="1322" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607484521400" />
+    <state width="1322" height="385" key="GridCell.Tab.0.center" timestamp="1607484521400">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
-    <state width="1322" height="385" key="GridCell.Tab.0.left" timestamp="1607424163923">
+    <state width="1322" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607484521400" />
+    <state width="1322" height="385" key="GridCell.Tab.0.left" timestamp="1607484521400">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
-    <state width="1322" height="385" key="GridCell.Tab.0.right" timestamp="1607424163923">
+    <state width="1322" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607484521400" />
+    <state width="1322" height="385" key="GridCell.Tab.0.right" timestamp="1607484521400">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607424163923" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1607402331600">
+    <state width="1322" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607484521400" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1607481393005">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607402331600" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607481393005" />
     <state x="381" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607423599019">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="381" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1607423599019" />
-    <state x="57" y="0" key="new project wizard" timestamp="1607394004987">
+    <state x="385" y="101" width="596" height="536" key="find.popup" timestamp="1607480724881">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="57" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1607394004987" />
+    <state x="385" y="101" width="596" height="536" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1607480724881" />
+    <state x="57" y="0" key="new project wizard" timestamp="1607474376775">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1607474376775" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1607397738737">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

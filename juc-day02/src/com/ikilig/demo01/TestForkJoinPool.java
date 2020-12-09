@@ -1,4 +1,4 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
 import org.junit.Test;
 

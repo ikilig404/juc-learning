@@ -1,4 +1,4 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
 /**
  * 一、volatile 关键字：当多个线程操作共享数据时，可以保证内存中的数据可见。

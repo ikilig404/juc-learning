@@ -1,4 +1,4 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
 /**
  * 1. 两个普通同步方法，两个线程，标准打印，打印结果？  one two

@@ -1,4 +1,4 @@
-package com.ikilig.juc;
+package com.ikilig.demo01;
 
 /**
  * 模拟CAS(Compare And Swap)算法
