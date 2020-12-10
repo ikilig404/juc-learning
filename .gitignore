@@ -10,3 +10,4 @@ out/
 target/
 .classpath
 .project
+.idea/
