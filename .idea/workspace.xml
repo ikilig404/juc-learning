@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="206414d2-04c4-4557-9d4d-a871a34d757a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/juc-kuang/src/main/java/com/ikilig/callable/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/juc-kuang/src/main/java/com/ikilig/callable/CyclicBarrierDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="D:\wjwhs\IdeaProject\juc-learning\juc-day02\src\com\ikilig\juc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreDemo">
+  <component name="RunManager" selected="Application.ReadWriteLockDemo">
     <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ikilig.callable.CallableTest" />
       <module name="juc-kuang" />
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ikilig.unsafe.ListTest" />
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ikilig.rw.ReadWriteLockDemo" />
       <module name="juc-kuang" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ikilig.unsafe.*" />
+          <option name="PATTERN" value="com.ikilig.rw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,26 +122,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadWriteLockDemo" />
         <item itemvalue="Application.SemaphoreDemo" />
         <item itemvalue="Application.CyclicBarrierDemo" />
         <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.CallableTest" />
-        <item itemvalue="Application.ListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,42 +159,59 @@
       <workItem from="1607478729918" duration="5169000" />
       <workItem from="1607501764447" duration="7509000" />
       <workItem from="1607562307153" duration="7750000" />
-      <workItem from="1607586504760" duration="1879000" />
+      <workItem from="1607586504760" duration="2107000" />
+      <workItem from="1607607497118" duration="2579000" />
     </task>
+    <task id="LOCAL-00001" summary="juc">
+      <created>1607588571158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607588571159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="juc" />
+    <option name="LAST_COMMIT_MESSAGE" value="juc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1607563874951">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1607563874951" />
-    <state width="1322" height="243" key="GridCell.Tab.0.bottom" timestamp="1607588319328">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1607588566232">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607588319328" />
-    <state width="1322" height="243" key="GridCell.Tab.0.center" timestamp="1607588319328">
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1607588566232" />
+    <state width="1322" height="243" key="GridCell.Tab.0.bottom" timestamp="1607610085883">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607588319328" />
-    <state width="1322" height="243" key="GridCell.Tab.0.left" timestamp="1607588319327">
+    <state width="1322" height="243" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607610085883" />
+    <state width="1322" height="243" key="GridCell.Tab.0.center" timestamp="1607610085882">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607588319327" />
-    <state width="1322" height="243" key="GridCell.Tab.0.right" timestamp="1607588319328">
+    <state width="1322" height="243" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607610085882" />
+    <state width="1322" height="243" key="GridCell.Tab.0.left" timestamp="1607610085882">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607588319328" />
+    <state width="1322" height="243" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607610085882" />
+    <state width="1322" height="243" key="GridCell.Tab.0.right" timestamp="1607610085883">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="243" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607610085883" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1607481393005">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607481393005" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607576475876">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607588635455">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607576475876" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607588635455" />
     <state x="381" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607423599019">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
