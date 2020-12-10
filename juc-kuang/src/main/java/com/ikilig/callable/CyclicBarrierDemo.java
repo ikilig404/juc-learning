@@ -11,7 +11,7 @@ public class CyclicBarrierDemo {
             System.out.println("召唤神龙成功！");
         });
 
-        for (int i = 1; i <= 7; i++) {
+        for (int i = 1; i <= 14; i++) {  // CyclicBarrier对象，可以循环使用，达到最大值后自动归零
 
             final int temp = i;
             new Thread(() -> {
